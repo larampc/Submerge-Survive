@@ -18,6 +18,7 @@ increase the player's speed.
 The deeper they collect the trash, the more money they make. However, if, when trying
 burst the bubbles, you kill some fish, you will lose coins.
 
+You can watch the trailer in [here](https://youtu.be/XK_oiMF0lZY?si=U29av8xUEUd-uhfm)
 
 > This game was developed for LCOM curricular unity. It required the programming of MINIX drivers for interfacing with the computer's timer, keyboard, real time clock, mouse, graphics card and serial port.
 
